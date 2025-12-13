@@ -15,3 +15,7 @@
 • "monkey in the middle" game idea - a monkey tries to intercept a ball being thrown back and forth by two characters(thrower and catcher).
 • made a controllable character, made a ball, trying to figure out how to write the trajectory of the ball and the thrower and catcher movement.
 • uploaded the very early-stage project file i saved.
+
+2025-Dec-13
+• started the week 1 lecture
+• problem set 0 "monkey in the middle" game idea - i am trying to make the moving(auto-moving) object, the ball, bounce off the edge ,and it needs to randomize itself for each throw. the thrower must randomize his starting throw point and the catcher must move to catch the ball, and meet the ball or reach the ball's target location when or before the ball reaches. This is going to take some doing, i'm trying to build it line by line.
