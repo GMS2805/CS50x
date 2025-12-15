@@ -19,3 +19,13 @@
 2025-Dec-13
 • started the week 1 lecture
 • problem set 0 "monkey in the middle" game idea - i am trying to make the moving(auto-moving) object, the ball, bounce off the edge ,and it needs to randomize itself for each throw. the thrower must randomize his starting throw point and the catcher must move to catch the ball, and meet the ball or reach the ball's target location when or before the ball reaches. This is going to take some doing, i'm trying to build it line by line.
+
+2025-Dec-14
+• problem set 0
+• uploaded the initial file i made. created some sprites - a controllable monkey, a duck, a reindeer and a ball. was still figuring out the mechanics of the game.
+
+2025-Dec-15
+• problem set 0
+• Monkey sprite is fully controllable. The duck randomizes each rougn and throws the ball. It is a 5 round game. First team to 5 wins. 
+• There are events and triggers helping me accomplish this. 
+• The reindeer sprite needs to be programmed. the ball/monkey contact needs to be fine-tuned. the requirements for the assignment need to be checked.
