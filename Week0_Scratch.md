@@ -29,3 +29,10 @@
 • Monkey sprite is fully controllable. The duck randomizes each rougn and throws the ball. It is a 5 round game. First team to 5 wins. 
 • There are events and triggers helping me accomplish this. 
 • The reindeer sprite needs to be programmed. the ball/monkey contact needs to be fine-tuned. the requirements for the assignment need to be checked.
+
+2025-Dec-18
+• problem set 0 all criteria met, but there are unused variables, disorganized blocks, and too many lines of code that are unnecessary. A fresh remake is initiated.
+
+2025-Dec-19
+• problem set 0 made, cleaner, working, and satisfactory to my expectations. submitted on the official c50x link.
+• Submitted .sb3 file uploaded on github as well for future reference if needed.
