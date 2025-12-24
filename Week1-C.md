@@ -9,3 +9,7 @@
 2025-Dec-20
 • lecture video started, notes-taking. 26 minutes. 
 • week 0 problem submitted yesterday. week1 fully in progress now. C started. Visual studio for CS50 at cs50.dev
+
+2025-Dec-24
+• lecture video of C, past 1 hr 15 minutes. Daily, a 10 minute video progress takes up around 30 minutes to one hour.
+• conditionals, data types, manual pages, command prompt lines covered thus far.
