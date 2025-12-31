@@ -13,3 +13,8 @@
 2025-Dec-24
 • lecture video of C, past 1 hr 15 minutes. Daily, a 10 minute video progress takes up around 30 minutes to one hour.
 • conditionals, data types, manual pages, command prompt lines covered thus far.
+
+2025-Dec-31
+• lecture video completed, detailed note-taking.
+• made my codespace in cs50.dev
+• submitted hello, world
