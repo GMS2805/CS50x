@@ -18,3 +18,7 @@
 • lecture video completed, detailed note-taking.
 • made my codespace in cs50.dev
 • submitted hello, world
+
+2026-Jan-01
+• made and submitted "hello, its me"
+• opened and started "mario more"
