@@ -25,3 +25,6 @@
 
 2026-Jan-02
 • made and submitted "mario more"
+
+2026-Jan-04
+• made "credit". to the point of coding the algorith. the starting digits and number of digits needs to be thought over to complete the assignment.
