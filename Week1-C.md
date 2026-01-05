@@ -28,3 +28,7 @@
 
 2026-Jan-04
 • made "credit". to the point of coding the algorith. the starting digits and number of digits needs to be thought over to complete the assignment.
+
+2026-Jan-05
+• completed and submitted "mario more". just using while and /10 solved it.
+• WEEK 1 complete.
