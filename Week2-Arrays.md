@@ -7,4 +7,6 @@
 - notes on command line arguments, exit status and cryptography.
 - Similar concepts in python (especially strings) were connected and studied in openstax book.
 
-- 
+2026 Jan 19
+- Problem set 2 "scrabble", "readability", and ("Caesar" or "Substitution")
+- Started "scrabble"
